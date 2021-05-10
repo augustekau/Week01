@@ -1,0 +1,59 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+}
+h3 {
+  font-size: 18px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+span {
+  font-weight: bold;
+}
+
+#intro {
+  text-align: center;
+  font-size: 18px;
+}
+#about {
+  border: 1px solid gray;
+  border-radius: 4px;
+  line-height: 20px;
+  padding: 2px;
+}
+#photocomment {
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+#photo {
+  text-align: center;
+  background: rgb(172, 170, 170);
+  padding: 12px;
+  margin: 2px;
+}
+#read {
+  text-align: center;
+  font-size: 11px;
+  font-style: italic;
+}
+#body {
+  background: rgb(241, 240, 240);
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px 40px 40px 40px;
+  font-family: monospace;
+}
+#codedby {
+  text-align-last: left;
+  font-family: monospace;
+  margin: 0px 0px 0px 40px;
+}
